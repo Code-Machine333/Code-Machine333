@@ -66,14 +66,13 @@ Currently working on futuristic **Agentic AI Analytics Systems** and **autonomou
 ---
 
 ## 🌍 Let’s Connect & Collaborate
-- 🧠 Read My Blogs: [Kamal Kishor](https://dev.to/koolkamalkishor/)
-- 💼 Explore My Portfolio: [Portfolio Website](https://kamalkishor.netlify.app/)
-- 📨 Mail me at: kamalkishor.cse@gmail.com
+- 💼 Explore My Portfolio: [Portfolio Website](https://codemachine.netlify.app/)
+- 📨 Mail me at: codemachines.io@gmail.com
 
 ---
 
 ## 🔍 Keywords / Tags (For SEO)
-`Kamal Kishor`, `Frontend Developer in Delhi`, `React TypeScript Angular Developer`, `Agentic AI Developer`, `Node.js SaaS Engineer`,  
+`Blockchain Developer in Delhi`, `React TypeScript Angular Developer`, `Agentic AI Developer`, `Node.js SaaS Engineer`,  
 `Lead Scoring AI`, `Enterprise SaaS Developer India`, `RAG chatbot developer`, `ERP CRM integration`, `Gemini AI`, `Next.js AI Developer`, `Angular Node Full Stack Developer`, `Freelance Web Developer India`
 
 ---
