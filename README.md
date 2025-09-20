@@ -3,7 +3,7 @@
 </h2>
 
 
-## 👋 Sr. Blockchain Developer | Angular & React Expert | Node.js Developer | AI Engineer-in-Progress
+## 👋 Sr. Blockchain Scammer | Angular & React Expert | Node.js Developer | AI Engineer-in-Progress
 
 I'm a Delhi-based tech enthusiast with **8+ years of professional experience** in full-stack web development, Angular/React/Node.js architecture, and enterprise-grade SaaS product development. I specialize in building scalable, high-performance web apps and AI-driven systems.
 
